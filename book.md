@@ -1,19 +1,28 @@
 ### Chapter 1 — Getting Started
 
+* Yes
+* No
+
 * Hello
 * Goodbye
 * See you later (male)
 * See you later (female)
+
+---
 
 * I need
 * I want
 * I feel
 * I think
 
+---
+
 * Can?
 * Can I?
 * Please?
 * Can please X?
+
+---
 
 * Thanks
 * Thanks a lot
@@ -25,6 +34,8 @@
 * I appreciate that much (male)
 * I appreciate it much (female)
 * It's not taken for granted
+
+---
 
 * I am sorry
 * Sorry
