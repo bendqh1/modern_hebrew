@@ -3,6 +3,8 @@
 * Yes
 * No
 
+---
+
 * Hello
 * Goodbye
 * See you later (male)
