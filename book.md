@@ -1,5 +1,39 @@
 ### Chapter 1 — Getting Started
 
+* Hello
+* Goodbye
+* See you later (male)
+* See you later (female)
+
+* I need
+* I want
+* I feel
+* I think
+
+* Can?
+* Can I?
+* Please?
+* Can please X?
+
+* Thanks
+* Thanks a lot
+* Thank you (male)
+* Thank you (female)
+* Thank you very much (male)
+* Thank you very much (female)
+* Much appreciated
+* I appreciate that much (male)
+* I appreciate it much (female)
+* It's not taken for granted
+
+* I am sorry
+* Sorry
+* I ask for your forgivness
+* Please forgive me
+* I ask you to tell me X
+* You are right
+* I take it back
+
 | Topic | Example 1 | Example 2 | Example 3 | Example 4 | Example 5 | Example 6 | Example 7 | Example 8 | Example 9 | Example 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Greetings and introductions | שלום | בוקר טוב | ערב טוב | לילה טוב | מה נשמע? | מה שלומך?<br>מה שלומך? | נעים מאוד | מה קורה? | הכול טוב? | להתראות |
