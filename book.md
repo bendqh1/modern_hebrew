@@ -2,20 +2,27 @@
 
 * Yes
 * No
+* Water
 
 ---
 
 * Hello
 * Goodbye
-* See you later (male)
-* See you later (female)
+* See you later
 
 ---
 
-* I need
-* I want
-* I feel
-* I think
+* I need (F)
+* I need (M)
+* I want (F)
+* I want (M)
+
+---
+
+* I feel (F)
+* I feel (M)
+* I think (F)
+* I think (M)
 
 ---
 
