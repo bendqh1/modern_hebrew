@@ -67,6 +67,10 @@
 | Yes / no / maybe | כן | לא | אולי | בטח | ברור | נכון | לא נכון | אפשר | אי אפשר | נראה לי |
 | Numbers and quantities | אחד<br>אחת | שניים<br>שתיים | שלושה<br>שלוש | ארבעה<br>ארבע | חמישה<br>חמש | עשרה<br>עשר | עשרים | מאה | הרבה | קצת |
 
+מ
+
+עד ל
+
 ### Chapter 2 — Everyday Life
 
 | Topic | Example 1 | Example 2 | Example 3 | Example 4 | Example 5 | Example 6 | Example 7 | Example 8 | Example 9 | Example 10 |
