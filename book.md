@@ -67,8 +67,10 @@
 | Yes / no / maybe | כן | לא | אולי | בטח | ברור | נכון | לא נכון | אפשר | אי אפשר | נראה לי |
 | Numbers and quantities | אחד<br>אחת | שניים<br>שתיים | שלושה<br>שלוש | ארבעה<br>ארבע | חמישה<br>חמש | עשרה<br>עשר | עשרים | מאה | הרבה | קצת |
 
-* מ
-* עד ל
+* from where מ
+* to where ל
+* from
+* to
 
 ### Chapter 2 — Everyday Life
 
