@@ -71,6 +71,7 @@
 * to where ל
 * from
 * to
+* That ש
 
 ### Chapter 2 — Everyday Life
 
